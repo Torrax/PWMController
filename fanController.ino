@@ -1,7 +1,6 @@
 /////////////////////////////////////////////
 //                                         //
 //         Authors: Carson Morris          //
-//            & Daniel Becking             //
 //         Class: CAM8302E - 012           //
 //       Ciena PWM Fan Controller          //
 //           Date: 04-01-2021              //
