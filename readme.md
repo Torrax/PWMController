@@ -1,7 +1,7 @@
 <img src="icon.png" align="right" />
 
-# C.A.R.V.I.S. [!C.A.R.V.I.S.](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Torrax/CARVIS)
-> A Multifunction Robot Car Project
+# PWMController [![PWMController](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Torrax/PWMController)
+> A Incremented PWM Fan Controller
 
 ENTER DESCRIPTION HERE
 
@@ -21,25 +21,20 @@ step 2
 
 ## Schematics & Diagrams
 
-- [Schematic Overview](https://github.com/Torrax/CARVIS/photos/) - This is an image illistrating...
-- [PCB Overview](https://github.com/Torrax/CARVIS/photos/) - This is an image illistrating...
-- [Photo 1](https://github.com/Torrax/CARVIS/photos/) - This is an image illistrating...
-- [Photo 2](https://github.com/Torrax/CARVIS/photos/) - This is an image illistrating...
-- [Photo 3](https://github.com/Torrax/CARVIS/photos/) - This is an image illistrating...
-- [Photo 4](https://github.com/Torrax/CARVIS/photos/) - This is an image illistrating...
-- [Photo 5](https://github.com/Torrax/CARVIS/photos/) - This is an image illistrating...
-- [Photo 6](https://github.com/Torrax/CARVIS/photos/) - This is an image illistrating...
+- [Schematic Overview](https://github.com/Torrax/PWMController/photos/) - This is an image illistrating...
+- [PCB Overview](https://github.com/Torrax/PWMController/photos/) - This is an image illistrating...
+- [Photo 1](https://github.com/Torrax/PWMController/photos/) - This is an image illistrating...
+- [Photo 2](https://github.com/Torrax/PWMController/photos/) - This is an image illistrating...
+- [Photo 3](https://github.com/Torrax/PWMController/photos/) - This is an image illistrating...
+- [Photo 4](https://github.com/Torrax/PWMController/photos/) - This is an image illistrating...
 
 ## Examples
 
-- [Mode Select](https://github.com/Torrax/CARVIS/examples/) - Mode Select - 
-- [Mode Select](https://github.com/Torrax/CARVIS/examples/) - Mode Select - 
-- [Mode Select](https://github.com/Torrax/CARVIS/examples/) - Mode Select - 
-- [Mode Select](https://github.com/Torrax/CARVIS/examples/) - Mode Select - 
-- [Mode Select](https://github.com/Torrax/CARVIS/examples/) - Mode Select - 
-- [Mode Select](https://github.com/Torrax/CARVIS/examples/) - Mode Select - 
-- [Mode Select](https://github.com/Torrax/CARVIS/examples/) - Mode Select - 
-- [Mode Select](https://github.com/Torrax/CARVIS/examples/) - Mode Select - 
+- [Mode Select](https://github.com/Torrax/PWMController/examples/) - Mode Select - 
+- [Mode Select](https://github.com/Torrax/PWMController/examples/) - Mode Select - 
+- [Mode Select](https://github.com/Torrax/PWMController/examples/) - Mode Select - 
+- [Mode Select](https://github.com/Torrax/PWMController/examples/) - Mode Select - 
+- [Mode Select](https://github.com/Torrax/PWMController/examples/) - Mode Select - 
 
 ## Feedback
 
